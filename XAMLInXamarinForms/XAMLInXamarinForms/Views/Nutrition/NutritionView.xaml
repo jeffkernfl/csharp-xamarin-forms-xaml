@@ -4,9 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="XAMLInXamarinForms.Views.Nutrition.NutritionView"
-             xmlns:nutritionviews ="clr-namespace:XAMLInXamarinForms.Views.Nutrition">
-    <!--Pages can be added as references or inline-->
+             x:Class="XAMLInXamarinForms.Views.Nutrition.NutritionView">
     <TabbedPage.Title>Nutrition</TabbedPage.Title>
     <nutritionviews:BreakfastView/>
     <nutritionviews:LunchView/>
